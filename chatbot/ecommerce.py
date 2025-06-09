@@ -8,6 +8,7 @@ from datetime import datetime, timedelta
 
 import re
 from typing import Dict, List, Any
+import os
 
 class EcommerceKnowledgeBase:
     def __init__(self, model_name='all-MiniLM-L6-v2'):
@@ -92,47 +93,28 @@ class EcommerceKnowledgeBase:
         # Load sản phẩm mẫu
         self.load_sample_products()
         
-        # Load câu hỏi thường gặp
-        ecommerce_data = [
-            {
-
-                "category": "shipping",
-                "question": "Thời gian giao hàng bao lâu?",
-                "answer": "Thời gian giao hàng: Nội thành HCM/HN: 1-2 ngày, Tỉnh thành khác: 2-5 ngày, Vùng xa: 5-7 ngày. Miễn phí giao hàng cho đơn từ 500k.",
-                "keywords": "giao hàng, ship, thời gian, miễn phí"
-            },
-            {
-                "category": "payment",
-                "question": "Có những hình thức thanh toán nào?",
-                "answer": "Chúng tôi hỗ trợ: COD (thanh toán khi nhận hàng), chuyển khoản ngân hàng, ví điện tử (MoMo, ZaloPay), thẻ tín dụng (Visa, Mastercard).",
-                "keywords": "thanh toán, COD, chuyển khoản, ví điện tử, thẻ tín dụng"
-            },
-            {
-                "category": "return",
-                "question": "Chính sách đổi trả như thế nào?",
-                "answer": "Đổi trả trong 30 ngày: Sản phẩm chưa sử dụng, còn nguyên tem mác, hóa đơn. Miễn phí đổi size, đổi màu. Hoàn tiền 100% nếu lỗi từ shop.",
-                "keywords": "đổi trả, bảo hành, hoàn tiền, 30 ngày"
-            },
-            {
-                "category": "account",
-                "question": "Làm sao để tạo tài khoản?",
-                "answer": "Tạo tài khoản: Vào trang đăng ký → Nhập email, mật khẩu → Xác thực email → Hoàn thành. Hoặc đăng nhập nhanh bằng Facebook/Google.",
-
-                "keywords": "tài khoản, đăng ký, đăng nhập, email"
-            },
-            {
-                "category": "promotion",
-                "question": "Có chương trình khuyến mãi nào không?",
-                "answer": "Khuyến mãi hiện tại: Giảm 20% đơn đầu tiên, Freeship đơn từ 500k, Tích điểm đổi quà, Flash sale cuối tuần. Đăng ký nhận thông báo khuyến mãi.",
-                "keywords": "khuyến mãi, giảm giá, freeship, flash sale"
-            },
-            {
-                "category": "product_search",
-                "question": "Tìm sản phẩm laptop gaming",
-                "answer": "Laptop gaming phổ biến: ASUS ROG, MSI Gaming, Dell G-Series, HP Pavilion Gaming. Cấu hình từ i5/Ryzen 5, RAM 8GB+, VGA GTX/RTX. Giá từ 15-50 triệu.",
-                "keywords": "laptop gaming, ASUS ROG, MSI, cấu hình cao"
-            }
-        ]
+        """Load dữ liệu ecommerce từ file JSON vào knowledge base"""
+        try:
+            # Đường dẫn tới file JSON
+            json_file_path = "ecommerce_knowledgebase.json"
+        
+            # Kiểm tra file có tồn tại không
+            if not os.path.exists(json_file_path):
+                print(f"Warning: File {json_file_path} không tồn tại!")
+                return []
+        
+            # Đọc dữ liệu từ file JSON
+            with open(json_file_path, 'r', encoding='utf-8') as file:
+                ecommerce_data = json.load(file)
+        
+            print(f"Đã load thành công {len(ecommerce_data)} câu hỏi từ {json_file_path}")
+        
+        except json.JSONDecodeError as e:
+            print(f"Error: Lỗi format JSON - {e}")
+        except FileNotFoundError:
+            print(f"Error: Không tìm thấy file {json_file_path}")
+        except Exception as e:
+            print(f"Error: Lỗi không xác định - {e}")
         
         # Lưu vào database
         conn = sqlite3.connect(self.db_path)
@@ -436,13 +418,16 @@ def demo_ecommerce_chatbot():
         "Khuyến mãi gì đang có?"
     ]
     
-    for query in test_queries:
-        print(f"\nUser: {query}")
+    while True: 
+        print("Câu hỏi: ", end='')
+        query = input()
+        if query == 'kết thúc':
+            print("Cảm ơn bạn đã tin tưởng và sử dụng chatbot")
+            break
         response = kb.find_best_answer(query)
         print(f"Bot: {response['answer']}")
         print(f"Intent: {response['intent']} | Confidence: {response['confidence']:.2f}")
         print("-" * 60)
-    
 
     # Show analytics
     print("\n=== ANALYTICS ===")

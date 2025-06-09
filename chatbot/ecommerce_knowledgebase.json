@@ -1,0 +1,347 @@
+[
+    {
+        "category": "shipping",
+        "question": "Thời gian giao hàng bao lâu?",
+        "answer": "Thời gian giao hàng: Nội thành HCM/HN: 1-2 ngày, Tỉnh thành khác: 2-5 ngày, Vùng xa: 5-7 ngày. Miễn phí giao hàng cho đơn từ 500k.",
+        "keywords": "giao hàng, ship, thời gian, miễn phí"
+    },
+    {
+        "category": "shipping",
+        "question": "Có giao hàng nhanh không?",
+        "answer": "Có dịch vụ giao hàng nhanh trong 2-4 giờ tại HCM/HN với phí 50k. Giao hàng express 24h với phí 30k cho các tỉnh thành lớn.",
+        "keywords": "giao nhanh, express, 2 giờ, 24h"
+
+    },
+    {
+        "category": "shipping",
+        "question": "Phí ship bao nhiêu?",
+        "answer": "Phí ship: Nội thành 25k, Ngoại thành 35k, Tỉnh khác 40-60k. Miễn phí ship cho đơn từ 500k trở lên.",
+        "keywords": "phí ship, phí giao hàng, miễn phí"
+    },
+    {
+        "category": "shipping",
+        "question": "Có giao hàng cuối tuần không?",
+        "answer": "Có giao hàng thứ 7, chủ nhật từ 8h-18h. Phí giao cuối tuần tăng thêm 15k so với ngày thường.",
+        "keywords": "cuối tuần, thứ 7, chủ nhật"
+    },
+    {
+
+        "category": "shipping",
+        "question": "Làm sao để theo dõi đơn hàng?",
+        "answer": "Theo dõi đơn hàng: Vào Tài khoản → Đơn hàng của tôi → Nhập mã đơn hàng. Hoặc SMS/Email thông báo tự động về tình trạng đơn.",
+        "keywords": "theo dõi, tracking, mã đơn hàng"
+    },
+    {
+        "category": "payment",
+        "question": "Có những hình thức thanh toán nào?",
+
+        "answer": "Chúng tôi hỗ trợ: COD (thanh toán khi nhận hàng), chuyển khoản ngân hàng, ví điện tử (MoMo, ZaloPay), thẻ tín dụng (Visa, Mastercard).",
+        "keywords": "thanh toán, COD, chuyển khoản, ví điện tử, thẻ tín dụng"
+    },
+    {
+        "category": "payment",
+        "question": "Có thanh toán trả góp không?",
+        "answer": "Có trả góp 0% qua thẻ tín dụng 3-24 tháng. Trả góp qua ví điện tử với lãi suất ưu đãi. Điều kiện: Đơn hàng từ 3 triệu trở lên.",
+        "keywords": "trả góp, lãi suất 0%, thẻ tín dụng"
+    },
+    {
+        "category": "payment",
+        "question": "Thanh toán COD có an toàn không?",
+        "answer": "COD rất an toàn, bạn kiểm tra hàng trước khi thanh toán. Chúng tôi cam kết đúng sản phẩm, đúng chất lượng như mô tả.",
+        "keywords": "COD, an toàn, kiểm tra hàng"
+
+    },
+    {
+        "category": "payment",
+        "question": "Có thể thanh toán bằng điểm tích lũy không?",
+        "answer": "Có thể dùng điểm tích lũy để thanh toán tối đa 30% giá trị đơn hàng. 1000 điểm = 10k. Điểm không có hạn sử dụng.",
+        "keywords": "điểm tích lũy, điểm thưởng, quy đổi"
+    },
+    {
+        "category": "return",
+        "question": "Chính sách đổi trả như thế nào?",
+        "answer": "Đổi trả trong 30 ngày: Sản phẩm chưa sử dụng, còn nguyên tem mác, hóa đơn. Miễn phí đổi size, đổi màu. Hoàn tiền 100% nếu lỗi từ shop.",
+        "keywords": "đổi trả, bảo hành, hoàn tiền, 30 ngày"
+    },
+    {
+        "category": "return",
+        "question": "Đổi size có mất phí không?",
+        "answer": "Đổi size miễn phí trong 15 ngày đầu. Sau 15 ngày tính phí ship 2 chiều 50k. Sản phẩm phải còn nguyên tem mác.",
+        "keywords": "đổi size, miễn phí, 15 ngày"
+    },
+    {
+        "category": "return",
+        "question": "Hoàn tiền mất bao lâu?",
+        "answer": "Hoàn tiền: 3-5 ngày làm việc cho thẻ tín dụng, 1-2 ngày cho ví điện tử, 5-7 ngày cho chuyển khoản ngân hàng.",
+        "keywords": "hoàn tiền, thời gian, ngân hàng"
+    },
+
+    {
+        "category": "return",
+        "question": "Sản phẩm lỗi có được đổi không?",
+        "answer": "Sản phẩm lỗi được đổi mới 100% miễn phí trong 30 ngày. Lỗi do sản xuất được bảo hành theo quy định nhà sản xuất.",
+        "keywords": "lỗi sản phẩm, đổi mới, bảo hành"
+    },
+    {
+        "category": "account",
+        "question": "Làm sao để tạo tài khoản?",
+        "answer": "Tạo tài khoản: Vào trang đăng ký → Nhập email, mật khẩu → Xác thực email → Hoàn thành. Hoặc đăng nhập nhanh bằng Facebook/Google.",
+        "keywords": "tài khoản, đăng ký, đăng nhập, email"
+    },
+    {
+        "category": "account",
+
+        "question": "Quên mật khẩu làm sao?",
+        "answer": "Quên mật khẩu: Vào trang đăng nhập → Quên mật khẩu → Nhập email → Kiểm tra email reset → Tạo mật khẩu mới.",
+        "keywords": "quên mật khẩu, reset, email"
+    },
+
+    {
+        "category": "account",
+        "question": "Cách thay đổi thông tin cá nhân?",
+        "answer": "Thay đổi thông tin: Đăng nhập → Thông tin tài khoản → Chỉnh sửa → Lưu thay đổi. Một số thông tin cần xác thực OTP.",
+        "keywords": "thông tin cá nhân, chỉnh sửa, OTP"
+    },
+    {
+        "category": "account",
+        "question": "Có thể xóa tài khoản không?",
+        "answer": "Có thể xóa tài khoản vĩnh viễn bằng cách liên hệ CSKH. Lưu ý: Sẽ mất tất cả điểm tích lũy và lịch sử mua hàng.",
+        "keywords": "xóa tài khoản, vĩnh viễn, CSKH"
+    },
+    {
+        "category": "promotion",
+        "question": "Có chương trình khuyến mãi nào không?",
+        "answer": "Khuyến mãi hiện tại: Giảm 20% đơn đầu tiên, Freeship đơn từ 500k, Tích điểm đổi quà, Flash sale cuối tuần. Đăng ký nhận thông báo khuyến mãi.",
+        "keywords": "khuyến mãi, giảm giá, freeship, flash sale"
+    },
+    {
+        "category": "promotion",
+        "question": "Có voucher giảm giá không?",
+        "answer": "Có nhiều voucher: Giảm 50k cho đơn từ 500k, Giảm 100k cho đơn từ 1 triệu, Giảm 15% tối đa 200k. Check voucher tại trang chủ.",
+        "keywords": "voucher, mã giảm giá, trang chủ"
+    },
+    {
+        "category": "promotion",
+        "question": "Chương trình tích điểm như thế nào?",
+        "answer": "Tích điểm: Mua 1k = 1 điểm, Điểm x2 vào cuối tuần, Điểm x3 ngày sinh nhật. 1000 điểm = 10k tiền mặt.",
+        "keywords": "tích điểm, điểm thưởng, sinh nhật"
+    },
+    {
+        "category": "promotion",
+        "question": "Sale Black Friday có không?",
+        "answer": "Black Friday giảm tới 70%, Flash deal mỗi giờ, Freeship toàn quốc, Voucher độc quyền. Theo dõi fanpage để không bỏ lỡ.",
+        "keywords": "Black Friday, 70%, flash deal"
+    },
+    {
+        "category": "product_search",
+        "question": "Tìm sản phẩm laptop gaming",
+        "answer": "Laptop gaming phổ biến: ASUS ROG, MSI Gaming, Dell G-Series, HP Pavilion Gaming. Cấu hình từ i5/Ryzen 5, RAM 8GB+, VGA GTX/RTX. Giá từ 15-50 triệu.",
+        "keywords": "laptop gaming, ASUS ROG, MSI, cấu hình cao"
+    },
+    {
+        "category": "product_search",
+        "question": "Có điện thoại iPhone mới nhất không?",
+        "answer": "iPhone mới nhất: iPhone 15 Pro Max, iPhone 15 Pro, iPhone 15, iPhone 15 Plus. Đầy đủ dung lượng 128GB-1TB. Giá từ 20-35 triệu.",
+        "keywords": "iPhone 15, Pro Max, dung lượng"
+    },
+    {
+        "category": "product_search",
+        "question": "Tìm quần áo thời trang nam",
+
+        "answer": "Thời trang nam: Áo sơ mi, polo, t-shirt, quần jean, kaki, short. Thương hiệu: Canifa, Routine, Owen, GU. Size S-XXL, giá từ 200k-2 triệu.",
+        "keywords": "thời trang nam, áo sơ mi, Canifa"
+    },
+    {
+        "category": "product_search",
+        "question": "Có giày sneaker authentic không?",
+        "answer": "Sneaker authentic: Nike Air Force 1, Adidas Stan Smith, Converse Chuck Taylor, Vans Old Skool. Full size, tem chính hãng. Giá từ 1.5-5 triệu.",
+        "keywords": "sneaker authentic, Nike, Adidas, chính hãng"
+    },
+    {
+        "category": "product_search",
+        "question": "Tìm đồ điện tử gia dụng",
+        "answer": "Điện tử gia dụng: Tủ lạnh, máy giặt, điều hòa, nồi cơm điện, lò vi sóng. Thương hiệu: Samsung, LG, Panasonic, Electrolux. Bảo hành chính hãng.",
+        "keywords": "điện tử gia dụng, tủ lạnh, Samsung"
+    },
+    {
+        "category": "product_search",
+        "question": "Có đồ chơi trẻ em an toàn không?",
+        "answer": "Đồ chơi trẻ em an toàn: LEGO, Fisher-Price, Barbie, Hot Wheels, đồ chơi gỗ. Chứng nhận CE, không chất độc hại. Phù hợp 0-12 tuổi.",
+        "keywords": "đồ chơi trẻ em, LEGO, an toàn, CE"
+    },
+    {
+        "category": "product_search",
+        "question": "Tìm sách giáo dục",
+        "answer": "Sách giáo dục: Sách giáo khoa, tham khảo, truyện thiếu nhi, sách kỹ năng sống, ngoại ngữ. NXB Giáo dục, Kim Đồng, Alpha Books.",
+        "keywords": "sách giáo dục, giáo khoa, Kim Đồng"
+    },
+    {
+        "category": "product_info",
+        "question": "Laptop có bảo hành bao lâu?",
+        "answer": "Laptop bảo hành: 12-24 tháng chính hãng, 6 tháng đổi lỗi 1-1, hỗ trợ kỹ thuật 24/7. Một số dòng cao cấp bảo hành 36 tháng.",
+        "keywords": "bảo hành laptop, 12 tháng, chính hãng"
+    },
+    {
+        "category": "product_info",
+        "question": "Điện thoại có chống nước không?",
+        "answer": "Điện thoại cao cấp có chống nước IP67/IP68. iPhone từ đời 7, Samsung Galaxy S từ S7, Google Pixel từ đời 3 đều chống nước tốt.",
+        "keywords": "chống nước, IP67, IP68, iPhone"
+    },
+    {
+        "category": "product_info",
+        "question": "Quần áo có size nào?",
+        "answer": "Size quần áo: XS, S, M, L, XL, XXL. Có bảng size chi tiết cho từng sản phẩm. Hỗ trợ tư vấn size qua chat/hotline.",
+        "keywords": "size quần áo, bảng size, tư vấn"
+    },
+    {
+
+        "category": "product_info",
+        "question": "Giày có đủ size không?",
+        "answer": "Size giày: 35-45 cho nam, 35-40 cho nữ. Một số dòng có size 46-48. Tư vấn chọn size phù hợp với form chân Việt Nam.",
+        "keywords": "size giày, form chân Việt, tư vấn"
+    },
+    {
+        "category": "customer_service",
+        "question": "Liên hệ CSKH như thế nào?",
+        "answer": "Liên hệ CSKH: Hotline 1900-xxx-xxx (8h-22h), Chat online, Email: support@shop.com, Facebook Messenger. Hỗ trợ 24/7 qua chat.",
+        "keywords": "CSKH, hotline, chat online, email"
+    },
+    {
+        "category": "customer_service",
+        "question": "Có tư vấn sản phẩm không?",
+        "answer": "Có tư vấn miễn phí: So sánh sản phẩm, gợi ý phù hợp nhu cầu, hướng dẫn sử dụng. Liên hệ qua chat/hotline để được tư vấn.",
+        "keywords": "tư vấn sản phẩm, so sánh, gợi ý"
+    },
+    {
+        "category": "customer_service",
+        "question": "Phản hồi khiếu nại mất bao lâu?",
+        "answer": "Phản hồi khiếu nại trong 24h làm việc. Xử lý khiếu nại trong 3-7 ngày. Có thể gọi hotline để được hỗ trợ nhanh hơn.",
+        "keywords": "khiếu nại, 24h, xử lý"
+    },
+    {
+        "category": "security",
+        "question": "Thông tin cá nhân có an toàn không?",
+
+        "answer": "Thông tin được bảo mật tuyệt đối: Mã hóa SSL, không chia sẻ cho bên thứ 3, tuân thủ GDPR. Chỉ dùng cho mục đích giao hàng.",
+        "keywords": "bảo mật, SSL, GDPR, thông tin cá nhân"
+    },
+    {
+        "category": "security",
+        "question": "Thanh toán online có an toàn không?",
+        "answer": "Thanh toán online rất an toàn: Cổng thanh toán quốc tế, mã hóa 256-bit, không lưu thông tin thẻ. Được chứng nhận PCI DSS.",
+        "keywords": "thanh toán online, mã hóa, PCI DSS"
+    },
+    {
+        "category": "technical",
+        "question": "Website bị lỗi làm sao?",
+        "answer": "Nếu website lỗi: Refresh trang, xóa cache, thử trình duyệt khác, kiểm tra kết nối mạng. Vẫn lỗi thì liên hệ CSKH.",
+
+        "keywords": "website lỗi, refresh, cache, trình duyệt"
+    },
+
+    {
+        "category": "technical",
+        "question": "App di động có không?",
+        "answer": "Có app di động cho iOS và Android. Tải tại App Store/Google Play. App có thêm tính năng nhận thông báo khuyến mãi và tích điểm.",
+        "keywords": "app di động, iOS, Android, App Store"
+    },
+    {
+        "category": "store_info",
+        "question": "Có cửa hàng offline không?",
+        "answer": "Có 15 cửa hàng tại HCM, HN, Đà Nẵng, Cần Thơ. Địa chỉ cụ thể xem tại mục 'Hệ thống cửa hàng'. Mở cửa 8h-22h hàng ngày.",
+        "keywords": "cửa hàng offline, địa chỉ, giờ mở cửa"
+    },
+    {
+
+        "category": "store_info",
+        "question": "Lịch sử thành lập công ty?",
+        "answer": "Thành lập 2018, bắt đầu từ 1 cửa hàng nhỏ. Hiện có 15 cửa hàng, 200+ nhân viên, phục vụ 500k+ khách hàng. Tầm nhìn trở thành số 1 Việt Nam.",
+        "keywords": "thành lập 2018, 15 cửa hàng, 500k khách hàng"
+    },
+    {
+        "category": "membership",
+        "question": "Có chương trình thành viên không?",
+        "answer": "Có 4 hạng thành viên: Đồng (0-5 triệu), Bạc (5-20 triệu), Vàng (20-50 triệu), Kim cương (50+ triệu). Ưu đãi tăng theo hạng.",
+        "keywords": "thành viên, hạng thành viên, ưu đãi"
+    },
+    {
+        "category": "membership",
+        "question": "Thành viên VIP có gì đặc biệt?",
+        "answer": "Thành viên VIP: Giảm giá độc quyền 25%, Freeship không giới hạn, Ưu tiên CSKH, Quà sinh nhật, Mời sự kiện đặc biệt.",
+        "keywords": "VIP, giảm giá 25%, freeship, quà sinh nhật"
+    },
+    {
+        "category": "review",
+        "question": "Làm sao để đánh giá sản phẩm?",
+        "answer": "Đánh giá sản phẩm: Vào đơn hàng đã nhận → Chọn sản phẩm → Đánh giá sao và viết nhận xét → Có thể đính kèm ảnh/video.",
+        "keywords": "đánh giá, nhận xét, ảnh video"
+    },
+    {
+        "category": "review",
+        "question": "Có thưởng cho đánh giá không?",
+        "answer": "Có thưởng đánh giá: 50 điểm cho đánh giá có ảnh, 100 điểm cho video, 200 điểm cho đánh giá chi tiết trên 100 từ.",
+        "keywords": "thưởng đánh giá, 50 điểm, ảnh video"
+    },
+    {
+        "category": "wholesale",
+        "question": "Có bán sỉ không?",
+        "answer": "Có bán sỉ cho đại lý: Đơn từ 10 triệu giảm 10%, từ 50 triệu giảm 15%, từ 100 triệu giảm 20%. Liên hệ bộ phận bán sỉ.",
+        "keywords": "bán sỉ, đại lý, giảm giá sỉ"
+    },
+    {
+        "category": "wholesale",
+        "question": "Điều kiện làm đại lý?",
+        "answer": "Điều kiện đại lý: Có cửa hàng/kho bãi, cam kết doanh số 20 triệu/tháng, có kinh nghiệm bán hàng. Hỗ trợ marketing và đào tạo.",
+        "keywords": "đại lý, cửa hàng, 20 triệu, marketing"
+    },
+    {
+        "category": "seasonal",
+        "question": "Có khuyến mãi Tết không?",
+        "answer": "Khuyến mãi Tết: Sale up to 80%, Lì xì 500k cho 100 khách đầu tiên, Quà tặng độc quyền, Lucky draw trúng xe máy. Chi tiết xem fanpage.",
+        "keywords": "khuyến mãi Tết, 80%, lì xì, lucky draw"
+    },
+    {
+        "category": "seasonal",
+        "question": "Giáng sinh có ưu đãi gì?",
+        "answer": "Giáng sinh ưu đãi: Giảm 50% sản phẩm được chọn, Combo quà tặng giá sốc, Freeship toàn quốc, Wrap quà miễn phí.",
+        "keywords": "Giáng sinh, 50%, combo quà, wrap quà"
+    },
+    {
+        "category": "gift",
+        "question": "Có dịch vụ gói quà không?",
+        "answer": "Có dịch vụ gói quà: Gói quà cơ bản miễn phí, Gói quà cao cấp 50k, Gói quà VIP 100k. Có thể ghi lời chúc tùy ý.",
+        "keywords": "gói quà, miễn phí, lời chúc"
+    },
+
+    {
+        "category": "gift",
+        "question": "Có thẻ quà tặng không?",
+        "answer": "Có thẻ quà tặng từ 100k-5 triệu. Dùng được online và offline, hạn sử dụng 12 tháng. Có thể tặng qua email hoặc SMS.",
+        "keywords": "thẻ quà tặng, 100k-5 triệu, 12 tháng"
+    },
+    {
+        "category": "careers",
+        "question": "Có tuyển dụng không?",
+        "answer": "Có tuyển dụng các vị trí: Nhân viên bán hàng, CSKH, Marketing, IT, Kế toán. Xem chi tiết tại mục Tuyển dụng trên website.",
+        "keywords": "tuyển dụng, bán hàng, CSKH, marketing"
+    },
+    {
+        "category": "partnership",
+
+        "question": "Có hợp tác với KOL không?",
+        "answer": "Có chương trình hợp tác KOL/Influencer: Hoa hồng 5-15%, Sản phẩm PR miễn phí, Mã giảm giá độc quyền cho followers.",
+        "keywords": "KOL, influencer, hoa hồng, mã giảm giá"
+    },
+    {
+        "category": "warranty",
+        "question": "Bảo hành tại trung tâm nào?",
+        "answer": "Bảo hành tại các trung tâm chính hãng: Samsung, Apple, LG, Sony, HP, Dell... Danh sách chi tiết trong phiếu bảo hành kèm sản phẩm.",
+        "keywords": "trung tâm bảo hành, chính hãng, Samsung, Apple"
+    },
+    {
+        "category": "warranty",
+        "question": "Bảo hành mở rộng có không?",
+        "answer": "Có bảo hành mở rộng: Thêm 12 tháng với 10% giá sản phẩm, Thêm 24 tháng với 15%. Bao gồm lỗi người dùng và rơi vỡ.",
+        "keywords": "bảo hành mở rộng, 12 tháng, rơi vỡ"
+    }
+]

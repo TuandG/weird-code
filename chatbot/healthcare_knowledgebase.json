@@ -1,0 +1,248 @@
+[
+    {
+        "category": "symptoms",
+        "question": "Triệu chứng của cảm cúm là gì?",
+        "answer": "Triệu chứng cảm cúm thường bao gồm: sốt, ho, đau họng, nghẹt mũi, đau đầu, đau cơ, mệt mỏi. Nên nghỉ ngơi, uống nhiều nước và tham khảo ý kiến bác sĩ nếu triệu chứng nặng.",
+        "keywords": "cảm cúm, sốt, ho, đau họng, nghẹt mũi"
+    },
+    {
+        "category": "symptoms",
+        "question": "Dấu hiệu của cao huyết áp?",
+        "answer": "Cao huyết áp thường không có triệu chứng rõ ràng, được gọi là 'kẻ giết người thầm lặng'. Một số người có thể gặp: đau đầu, chóng mặt, khó thở, đau ngực. Cần đo huyết áp định kỳ.",
+        "keywords": "cao huyết áp, đau đầu, chóng mặt, huyết áp"
+    },
+    {
+        "category": "symptoms",
+        "question": "Triệu chứng của viêm gan B là gì?",
+        "answer": "Viêm gan B có thể không có triệu chứng hoặc gây mệt mỏi, buồn nôn, đau bụng, vàng da, nước tiểu đậm màu. Cần xét nghiệm máu để chẩn đoán chính xác.",
+        "keywords": "viêm gan B, mệt mỏi, vàng da, gan"
+    },
+    {
+        "category": "symptoms",
+        "question": "Dấu hiệu cảnh báo của đột quỵ?",
+        "answer": "Dấu hiệu đột quỵ: yếu hoặc tê nửa người, nói khó hoặc nói lắp, mặt méo, đau đầu dữ dội đột ngột, chóng mặt, mất thăng bằng. Cần cấp cứu ngay lập tức.",
+        "keywords": "đột quỵ, yếu nửa người, nói khó, cấp cứu"
+    },
+    {
+        "category": "symptoms",
+        "question": "Triệu chứng của bệnh tiểu đường?",
+        "answer": "Triệu chứng tiểu đường: khát nước nhiều, tiểu nhiều, đói bất thường, giảm cân không rõ nguyên nhân, mệt mỏi, mờ mắt, vết thương lâu lành.",
+        "keywords": "tiểu đường, khát nước, tiểu nhiều, giảm cân"
+    },
+    {
+        "category": "symptoms",
+        "question": "Dấu hiệu của bệnh tim mạch?",
+        "answer": "Triệu chứng bệnh tim: đau ngực, khó thở, mệt mỏi bất thường, chóng mặt, đánh trống ngực, sưng chân. Cần khám tim mạch nếu có các triệu chứng này.",
+        "keywords": "bệnh tim, đau ngực, khó thở, tim mạch"
+    },
+    {
+        "category": "medication",
+        "question": "Cách sử dụng paracetamol an toàn?",
+        "answer": "Paracetamol: Liều người lớn 500-1000mg, mỗi 4-6 giờ, tối đa 4g/ngày. Không dùng quá 7 ngày liên tục. Tránh kết hợp với rượu. Thận trọng với người bệnh gan.",
+        "keywords": "paracetamol, thuốc giảm đau, liều dùng"
+    },
+    {
+        "category": "medication",
+        "question": "Cách sử dụng kháng sinh đúng cách?",
+        "answer": "Kháng sinh: Dùng đúng liều, đúng giờ theo chỉ định bác sĩ. Uống hết đợt điều trị dù triệu chứng đã hết. Không tự ý mua hoặc dùng kháng sinh của người khác.",
+        "keywords": "kháng sinh, liều dùng, kháng thuốc"
+    },
+    {
+        "category": "medication",
+        "question": "Thuốc hạ huyết áp cần lưu ý gì?",
+        "answer": "Thuốc hạ huyết áp: Uống đều đặn theo giờ, không tự ý ngừng thuốc, theo dõi huyết áp thường xuyên, tránh đứng dậy đột ngột để không bị choáng váng.",
+        "keywords": "thuốc hạ huyết áp, huyết áp, choáng váng"
+    },
+    {
+        "category": "medication",
+        "question": "Insulin dùng như thế nào?",
+        "answer": "Insulin: Tiêm đúng liều, đúng giờ, luân phiên vị trí tiêm, bảo quản lạnh, kiểm tra đường huyết thường xuyên, mang theo kẹo đề phòng hạ đường huyết.",
+        "keywords": "insulin, tiểu đường, tiêm thuốc, hạ đường huyết"
+    },
+    {
+        "category": "emergency",
+        "question": "Khi nào cần gọi cấp cứu?",
+        "answer": "Gọi cấp cứu 115 khi có: đau ngực dữ dội, khó thở nghiêm trọng, đột quỵ (yếu nửa người, nói khó), chấn thương nặng, mất ý thức, chảy máu không cầm được.",
+        "keywords": "cấp cứu, đau ngực, khó thở, đột quỵ, 115"
+    },
+    {
+        "category": "emergency",
+        "question": "Xử lý khi bị ngạt khí CO?",
+        "answer": "Ngạt khí CO: Đưa nạn nhân ra nơi thoáng khí, gọi cấp cứu 115, kiểm tra nhịp thở và mạch, thực hiện hô hấp nhân tạo nếu cần. Không để nạn nhân một mình.",
+        "keywords": "ngạt khí CO, cấp cứu, hô hấp nhân tạo"
+    },
+    {
+        "category": "emergency",
+        "question": "Sơ cứu khi bị sốc phản vệ?",
+        "answer": "Sốc phản vệ: Gọi cấp cứu ngay, nằm ngửa nâng chân, nới lỏng quần áo, tiêm EpiPen nếu có, theo dõi nhịp thở và mạch, không cho uống nước.",
+        "keywords": "sốc phản vệ, dị ứng, EpiPen, cấp cứu"
+    },
+    {
+        "category": "emergency",
+        "question": "Cách sơ cứu khi bị bỏng?",
+        "answer": "Sơ cứu bỏng: Làm mát vết bỏng bằng nước lạnh 10-20 phút, không thoa kem hay mỡ, băng gạc sạch, không chọc vỡ phồng rộp, đến bệnh viện nếu bỏng nặng.",
+        "keywords": "bỏng, sơ cứu, nước lạnh, băng gạc"
+    },
+    {
+        "category": "prevention",
+        "question": "Cách phòng ngừa tiểu đường type 2?",
+        "answer": "Phòng ngừa tiểu đường type 2: Duy trì cân nặng khỏe mạnh, tập thể dục đều đặn, ăn nhiều rau củ, hạn chế đường và carbs tinh chế, không hút thuốc, kiểm tra sức khỏe định kỳ.",
+        "keywords": "tiểu đường, phòng ngừa, tập thể dục, ăn uống"
+    },
+    {
+        "category": "prevention",
+        "question": "Cách phòng ngừa bệnh tim mạch?",
+        "answer": "Phòng ngừa tim mạch: Tập thể dục đều đặn, ăn ít muối và chất béo, không hút thuốc, kiểm soát căng thẳng, duy trì cân nặng khỏe mạnh, khám định kỳ.",
+        "keywords": "tim mạch, phòng ngừa, tập thể dục, không hút thuốc"
+    },
+    {
+        "category": "prevention",
+        "question": "Cách phòng ngừa ung thư?",
+        "answer": "Phòng ngừa ung thư: Không hút thuốc, hạn chế rượu bia, ăn nhiều rau quả, tập thể dục, tránh phơi nắng quá mức, tiêm vaccine phòng bệnh, tầm soát định kỳ.",
+        "keywords": "ung thư, phòng ngừa, không hút thuốc, rau quả"
+    },
+    {
+        "category": "prevention",
+        "question": "Cách phòng ngừa viêm gan B?",
+        "answer": "Phòng ngừa viêm gan B: Tiêm vaccine đầy đủ, quan hệ tình dục an toàn, không dùng chung kim tiêm, dao cạo, kiểm tra máu hiến tặng, vệ sinh cá nhân tốt.",
+        "keywords": "viêm gan B, vaccine, quan hệ an toàn, kim tiêm"
+    },
+    {
+        "category": "prevention",
+        "question": "Phòng ngừa cảm cúm mùa?",
+        "answer": "Phòng ngừa cảm cúm: Tiêm vaccine hàng năm, rửa tay thường xuyên, tránh tiếp xúc người bệnh, che miệng khi ho hắt hơi, tăng cường sức đề kháng.",
+        "keywords": "cảm cúm, vaccine, rửa tay, sức đề kháng"
+    },
+    {
+        "category": "nutrition",
+        "question": "Lợi ích của việc ăn nhiều rau xanh là gì?",
+        "answer": "Rau xanh cung cấp vitamin, khoáng chất và chất xơ, giúp cải thiện tiêu hóa, giảm nguy cơ mắc bệnh tim mạch, tiểu đường, béo phì và ung thư.",
+        "keywords": "rau xanh, vitamin, chất xơ, dinh dưỡng"
+    },
+    {
+        "category": "nutrition",
+        "question": "Cách ăn uống cho người tiểu đường?",
+        "answer": "Chế độ ăn tiểu đường: Hạn chế đường và carbs đơn giản, ăn nhiều rau xanh, protein nạc, chất béo tốt, ăn đều 5-6 bữa nhỏ, kiểm soát khẩu phần.",
+        "keywords": "tiểu đường, chế độ ăn, carbs, protein"
+    },
+    {
+        "category": "nutrition",
+        "question": "Thực phẩm tốt cho tim mạch?",
+        "answer": "Thực phẩm tốt cho tim: Cá hồi, quả óc chó, quả mọng, yến mạch, rau lá xanh, dầu olive, các loại đậu, giảm muối và chất béo bão hòa.",
+        "keywords": "tim mạch, cá hồi, óc chó, dầu olive"
+    },
+    {
+        "category": "nutrition",
+        "question": "Cách ăn uống để tăng cường miễn dịch?",
+        "answer": "Tăng miễn dịch: Ăn nhiều cam quýt (vitamin C), tỏi, gừng, sữa chua (probiotic), hạt dinh dưỡng, uống đủ nước, hạn chế đường và thực phẩm chế biến.",
+        "keywords": "miễn dịch, vitamin C, probiotic, tỏi, gừng"
+    },
+    {
+        "category": "nutrition",
+        "question": "Nhu cầu nước của cơ thể hàng ngày?",
+        "answer": "Nhu cầu nước: Người lớn cần 8-10 ly nước/ngày (2-2.5 lít), tăng thêm khi vận động, thời tiết nóng. Uống nước đều trong ngày, không chờ khát mới uống.",
+        "keywords": "nước, hydrat hóa, 2 lít nước, khát nước"
+    },
+    {
+        "category": "lifestyle",
+        "question": "Tác dụng của giấc ngủ đủ giấc?",
+        "answer": "Ngủ đủ giúp cải thiện trí nhớ, tăng cường hệ miễn dịch, cân bằng cảm xúc và giảm nguy cơ mắc các bệnh mãn tính.",
+        "keywords": "giấc ngủ, trí nhớ, miễn dịch, sức khỏe"
+    },
+    {
+        "category": "lifestyle",
+        "question": "Lợi ích của việc tập thể dục đều đặn?",
+        "answer": "Tập thể dục: Tăng cường tim mạch, xương khớp, giảm cân, cải thiện tâm trạng, giảm căng thẳng, tăng tuổi thọ, ngủ ngon hơn, tăng năng lượng.",
+        "keywords": "tập thể dục, tim mạch, xương khớp, giảm cân"
+    },
+    {
+        "category": "lifestyle",
+        "question": "Tác hại của việc hút thuốc lá?",
+        "answer": "Hút thuốc gây ung thư phổi, bệnh tim mạch, đột quỵ, bệnh phổi tắc nghẽn mãn tính, lão hóa da, giảm khả năng sinh sản, ảnh hưởng người thụ động.",
+        "keywords": "hút thuốc, ung thư phổi, tim mạch, đột quỵ"
+    },
+    {
+        "category": "lifestyle",
+        "question": "Ảnh hưởng của rượu bia đến sức khỏe?",
+        "answer": "Rượu bia quá mức gây bệnh gan, tăng huyết áp, ung thư, béo phì, suy giảm trí nhớ, rối loạn giấc ngủ. Nên uống có chừng mực hoặc không uống.",
+        "keywords": "rượu bia, bệnh gan, huyết áp, ung thư"
+    },
+    {
+        "category": "lifestyle",
+        "question": "Tầm quan trọng của vệ sinh cá nhân?",
+        "answer": "Vệ sinh cá nhân: Rửa tay thường xuyên, tắm rửa sạch sẽ, vệ sinh răng miệng, giặt quần áo, cắt móng tay - giúp phòng ngừa nhiễm khuẩn và bệnh tật.",
+        "keywords": "vệ sinh, rửa tay, tắm rửa, răng miệng"
+    },
+    {
+        "category": "mental_health",
+        "question": "Làm thế nào để giảm căng thẳng?",
+        "answer": "Để giảm căng thẳng, hãy thử thiền, tập thể dục, nghe nhạc thư giãn, ngủ đủ giấc và tránh caffeine quá mức.",
+        "keywords": "căng thẳng, thiền, thư giãn, stress"
+    },
+    {
+        "category": "mental_health",
+        "question": "Dấu hiệu của trầm cảm?",
+        "answer": "Dấu hiệu trầm cảm: Buồn bã kéo dài, mất hứng thú, mệt mỏi, rối loạn ăn ngủ, tự ti, khó tập trung, ý nghĩ tiêu cực. Cần tư vấn chuyên khoa tâm thần.",
+        "keywords": "trầm cảm, buồn bã, mệt mỏi, tâm thần"
+    },
+    {
+        "category": "mental_health",
+        "question": "Cách cải thiện giấc ngủ?",
+        "answer": "Cải thiện giấc ngủ: Ngủ đúng giờ, tránh caffeine buổi tối, tạo môi trường tối và mát, không dùng điện thoại trước khi ngủ, thư giãn trước khi đi ngủ.",
+        "keywords": "giấc ngủ, caffeine, môi trường ngủ, điện thoại"
+    },
+    {
+        "category": "mental_health",
+        "question": "Cách xử lý lo âu?",
+        "answer": "Xử lý lo âu: Thở sâu, tập mindfulness, vận động thể chất, chia sẻ với người thân, hạn chế caffeine, tìm hiểu nguyên nhân lo âu, tìm sự hỗ trợ chuyên nghiệp nếu cần.",
+        "keywords": "lo âu, mindfulness, thở sâu, vận động"
+    },
+    {
+        "category": "women_health",
+        "question": "Triệu chứng mang thai sớm?",
+        "answer": "Dấu hiệu mang thai: Trễ kinh, buồn nôn, nhạy cảm vú, mệt mỏi, tiểu nhiều, thay đổi khẩu vị. Nên test thai hoặc khám sản khoa để xác nhận.",
+        "keywords": "mang thai, trễ kinh, buồn nôn, test thai"
+    },
+    {
+        "category": "women_health",
+        "question": "Chăm sóc sức khỏe phụ nữ tuổi mãn kinh?",
+        "answer": "Tuổi mãn kinh: Bổ sung canxi, vitamin D, tập thể dục đều đặn, ăn nhiều rau quả, khám định kỳ, theo dõi mật độ xương, quản lý cân nặng.",
+        "keywords": "mãn kinh, canxi, vitamin D, mật độ xương"
+    },
+    {
+        "category": "men_health",
+        "question": "Phòng ngừa ung thư tuyến tiền liệt?",
+        "answer": "Phòng ngừa ung thư tuyến tiền liệt: Ăn nhiều cà chua, giảm chất béo, tập thể dục, duy trì cân nặng khỏe mạnh, khám định kỳ sau 50 tuổi.",
+        "keywords": "tuyến tiền liệt, ung thư, cà chua, khám định kỳ"
+    },
+    {
+        "category": "children_health",
+        "question": "Lịch tiêm chủng cho trẻ em?",
+        "answer": "Tiêm chủng: Trẻ cần tiêm đầy đủ các vaccine theo lịch quốc gia - BCG, DPT, sởi, viêm gan B, polio, Hib, phế cầu. Theo dõi lịch tiêm tại trạm y tế.",
+        "keywords": "tiêm chủng, vaccine, trẻ em, BCG, DPT"
+    },
+    {
+        "category": "children_health",
+        "question": "Dấu hiệu sốt nguy hiểm ở trẻ?",
+        "answer": "Sốt nguy hiểm ở trẻ: Sốt trên 39°C, co giật, khó thở, nôn ói nhiều, da tái tím, li bì, không ăn uống. Cần đưa trẻ đến bệnh viện ngay.",
+        "keywords": "sốt trẻ em, co giật, khó thở, cấp cứu"
+    },
+    {
+        "category": "elderly_health",
+        "question": "Chăm sóc sức khỏe người cao tuổi?",
+        "answer": "Người cao tuổi: Khám định kỳ, uống thuốc đúng cách, tập thể dục nhẹ nhàng, ăn uống cân bằng, giữ gìn an toàn tại nhà, duy trì hoạt động xã hội.",
+        "keywords": "người cao tuổi, khám định kỳ, thuốc, an toàn"
+    },
+    {
+        "category": "first_aid",
+        "question": "Sơ cứu khi bị đuối nước?",
+        "answer": "Sơ cứu đuối nước: Đưa nạn nhân lên bờ an toàn, kiểm tra ý thức và hô hấp, thực hiện hô hấp nhân tạo và ép tim ngoài lồng ngực nếu cần, gọi cấp cứu 115.",
+        "keywords": "đuối nước, hô hấp nhân tạo, ép tim, cấp cứu"
+    },
+    {
+        "category": "first_aid",
+        "question": "Xử lý khi bị cắt chảy máu?",
+        "answer": "Cắt chảy máu: Rửa tay sạch, ấn trực tiếp lên vết thương bằng gạc sạch, nâng cao vùng bị thương, băng ép, đến bệnh viện nếu vết thương sâu hoặc máu không cầm.",
+        "keywords": "chảy máu, băng ép, gạc sạch, vết thương"
+    }
+]
