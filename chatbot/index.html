@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Healthcare Chatbot</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <style>
+        #chatbox { margin-top: 20px; }
+        #messages { border: 1px solid #ccc; padding: 10px; height: 300px; overflow-y: scroll; }
+
+        #query { width: 80%; }
+    </style>
+</head>
+<body>
+    <div class="container">
+
+        <h1>Healthcare Chatbot</h1>
+        <div id="chatbox">
+            <div id="messages"></div>
+            <input type="text" id="query" placeholder="Nhập câu hỏi của bạn...">
+            <button id="send" class="btn btn-primary">Gửi</button>
+        </div>
+
+    </div>
+    <script>
+
+        $(document).ready(function() {
+            $('#send').click(function() {
+                var query = $('#query').val();
+                if (query) {
+                    $('#messages').append('<p><b>Bạn:</b> ' + query + '</p>');
+
+                    $.post('/chat', {query: query}, function(data) {
+                        $('#messages').append('<p><b>Bot:</b> ' + data.answer + '</p>');
+                        $('#messages').append('<p><b>Độ tin cậy:</b> ' + data.confidence.toFixed(2) + '</p>');
+                        $('#messages').append('<p><b>Danh mục:</b> ' + data.category + '</p>');
+                    });
+                    $('#query').val('');
+                }
+            });
+            $('#query').keypress(function(e) {
+                if (e.which == 13) { // Enter key
+                    $('#send').click();
+                }
+            });
+        });
+    </script>
+</body>
+</html>
