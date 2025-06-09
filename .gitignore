@@ -1,0 +1,77 @@
+# Byte-compiled / optimized / DLL files
+
+__pycache__/
+*.py[cod]
+
+*$py.class
+
+# C extensions
+*.so
+
+
+# Poetry virtual environments (if not inside project dir)
+
+# Uncomment the next line only if you set virtualenvs.in-project = false
+# .venv/
+
+# Poetry lock file (usually you want to keep this in git)
+# If you don't want to track it, uncomment the next line
+# poetry.lock
+
+# Python egg metadata
+*.egg-info/
+*.egg
+
+# Distribution / packaging
+build/
+dist/
+*.wheel
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+
+.coverage.*
+.cache
+
+nosetests.xml
+
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Pyre type checker
+.pyre/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pytype
+.pytype/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# MacOS
+
+.DS_Store
+
+
+# Windows
+Thumbs.db
+ehthumbs.db
